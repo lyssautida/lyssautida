@@ -1,7 +1,7 @@
 # Hello there!
 
 - 👋 I’m @lyssautida
-- 👀 I’m current learning HTML, CSS and GIT
+- 👀 I’m current learning HTML, CSS, JS/TS, reactJS and GIT
 - 🌱 I’m delivering activities here
 - 📫 You can reach me on @lyssautida
 
