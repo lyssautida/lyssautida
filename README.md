@@ -3,7 +3,7 @@
 - 👋 I’m @lyssautida
 - 👀 I’m current learning HTML, CSS, JS/TS, reactJS and GIT
 - 🌱 I’m delivering activities here
-- 📫 You can reach me on @lyssautida
+- 📫 You can reach me on @lyssamailbox@gmail.com
 
 <!---
 lyssautida/lyssautida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
