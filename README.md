@@ -11,7 +11,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Lyssa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/923758111179808849/959679019899555850/download20220406010109.png">
+  <img align="right" alt="Lyssa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/923758111179808849/959679019899555850/download20220406010109.png">
 </div>
   
   
