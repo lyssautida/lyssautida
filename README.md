@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/lyssautida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyssautida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssautida&layout=compact&langs_count=7&theme=dracula"/>
+	<img align="right" alt="Lyssa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1232677807990116379/1232788827018498109/Firefly_Crie_uma_imagem_de_foto_de_perfil_de_uma_mulher_de_25_anos_asiatica_de_pele_clara_olhos_e_.jpg?ex=6664bd90&is=66636c10&hm=2c55d4592b386b7389db69f8830f57d362912a593e18e367d0e7608b70c2fdf6&format=webp&width=663&height=663&"/>
 </div>         
 
 <div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="right" alt="Lyssa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/923758111179808849/959679019899555850/download20220406010109.png"/>
+	
 </div>
   
   ##
