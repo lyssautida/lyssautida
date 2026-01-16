@@ -1,10 +1,8 @@
 # Hello there, I'm Lyssa
 
-<div align="center">
-  <a href="https://github.com/lyssautida">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssautida&layout=compact&langs_count=7&theme=dracula"/>
-	<img align="right" alt="Lyssa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1232677807990116379/1232788827018498109/Firefly_Crie_uma_imagem_de_foto_de_perfil_de_uma_mulher_de_25_anos_asiatica_de_pele_clara_olhos_e_.jpg?ex=6664bd90&is=66636c10&hm=2c55d4592b386b7389db69f8830f57d362912a593e18e367d0e7608b70c2fdf6&format=webp&width=663&height=663&"/>
-</div>         
+<a href="https://github.com/lyssautida">
+	<img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/emojis/1394473900141842604.webp?size=32"/>
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
